@@ -1,0 +1,8 @@
+importFrom("stats", "cov", "isoreg", "quantile", "var")
+importFrom("utils", "tail")
+
+importFrom("graphics", "plot","points")
+importFrom("survival", "coxph","basehaz")
+
+export(surrosurvROC, surrosurvROC)
+
